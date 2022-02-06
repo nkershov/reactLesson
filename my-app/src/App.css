@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.loveman {
+  color: red;
+  font-size: 52px;
+}
+
+.btn-style {
+  padding: 14px;
+  background-color: blue;
+  border: none;
+  color: white;
+  margin-top: 15px;
+}
